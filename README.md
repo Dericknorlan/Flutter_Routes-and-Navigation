@@ -1,10 +1,6 @@
-# routes_navigation
+# Aplikasi Navigasi Flutter
 
 A new Flutter project.
-
-## Getting Started
-
-# Aplikasi Navigasi Flutter
 
 Aplikasi Flutter ini menunjukkan navigasi dasar antara tiga layar (FirstScreen, SecondScreen, dan ThirdScreen) menggunakan widget `Navigator` dan `BottomNavigationBar`. Ini juga mencakup `Drawer` untuk navigasi cepat antar layar.
 
