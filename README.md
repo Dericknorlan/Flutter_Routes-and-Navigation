@@ -24,7 +24,15 @@ Aplikasi Flutter ini menunjukkan navigasi dasar antara tiga layar (FirstScreen, 
 Untuk meng-clone repository ini, gunakan perintah berikut di terminal Anda:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone git@github.com:Dericknorlan/Flutter_Routes-and-Navigation.git
+cd Flutter_Routes-and-Navigation
+```
+
+##Menjalankan Aplikasi
+Untuk menjalankan aplikasi ini, gunakan perintah berikut di terminal Anda:
+
+```bash
+flutter run
 ```
 
 ## Cara Aplikasi Bekerja
