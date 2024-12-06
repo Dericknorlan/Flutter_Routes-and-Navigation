@@ -18,6 +18,15 @@ Aplikasi Flutter ini menunjukkan navigasi dasar antara tiga layar (FirstScreen, 
   - `second_screen.dart`: Berisi UI dan logika untuk layar kedua.
   - `third_screen.dart`: Berisi UI dan logika untuk layar ketiga.
 
+# Cara Menggunakan Repository Ini
+
+## Clone Repository
+Untuk meng-clone repository ini, gunakan perintah berikut di terminal Anda:
+
+```bash
+git clone https://github.com/username/repository-name.git
+```
+
 ## Cara Aplikasi Bekerja
 
 ### Layar Utama (FirstScreen)
