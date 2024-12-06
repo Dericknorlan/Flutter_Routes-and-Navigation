@@ -66,3 +66,9 @@ Layar dapat diganti menggunakan:
 1. **Bottom Navigation Bar**: Memungkinkan beralih layar dengan mengetuk ikon masing-masing.
 2. **Drawer**: Anda juga dapat bernavigasi antar layar menggunakan drawer di setiap layar.
 3. **Tombol**: Tombol yang ada di setiap layar memungkinkan navigasi ke layar lain.
+
+## Pendekatan
+Pengembangan aplikasi ini dilakukan dengan memanfaatkan kode dasar yang telah disediakan melalui eLearn sebagai fondasi utama. Kode tersebut kemudian dikembangkan dan disesuaikan lebih lanjut untuk memenuhi kebutuhan spesifik dari proyek ini, dengan penambahan fitur-fitur baru untuk menciptakan aplikasi yang lebih fungsional, relevan, dan sesuai dengan tujuan pengembangan.
+
+## Tantangan
+Selama pengembangan aplikasi ini saya menemukan ketika saya berpindah layar menggunakan button navbar tidak berfungsi dan tidak menunjukkan perubahan. Untuk emngatasi hal ini saya menggunakan selected index untuk men-tracking perubahan pada navbar ketika tombol atau button pada navbar ditekan agar navbar ttp mengikuti perubahan halaman. Selain itu saya menumukan bahwa navigasi yang saya buat belum sempurna karena, naviigasi yang saya buat mengubah keseluruhan layar termasuk navbar dan appbar dimana seharusnya yang berubah hanyalah isi dari halaman. Untuk masalah ini saya belum memperbaikinya namun saya sudah mendapatkan cara untuk mengatasi masalah ini dengan menggunakan destination dan index 
